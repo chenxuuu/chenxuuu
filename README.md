@@ -1,1 +1,1 @@
-![miao.svg](https://github.com/chenxuuu/chenxuuu/blob/master/miao.svg?raw=true)
+![miao.svg](https://gitee.com/chenxuuu/chenxuuu/raw/master/miao.svg)
