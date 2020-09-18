@@ -1,4 +1,4 @@
-<svg width="800" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
  <g>
   <title>background</title>
@@ -21,5 +21,10 @@
   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="40" id="svg_12" y="289.5" x="81.5" stroke-width="0" stroke="#000" fill="#333333">喵!喵!喵喵!!!</text>
   <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="60" id="svg_14" y="277.5" x="585.5" stroke-width="0" stroke="#000" fill="#333333">喵~</text>
   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="50" id="svg_15" y="47.5" x="35.5" stroke-width="0" stroke="#000" fill="#333333">喵???喵!</text>
+ </g>
+ <g>
+    <title>other pictures</title>
+    <image x="0" y="0" width="200" height="70" xlink:href="https://count.getloli.com/get/@chenxuuu?theme=rule34"/>
+    <image x="550" y="0" width="250" height="70" xlink:href="https://屑.cc/䣘"/>
  </g>
 </svg>
